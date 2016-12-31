@@ -1,0 +1,26 @@
+src/*.exe
+src/bitconnect
+src/bitconnectd
+src/test_bitconnect
+src/build.h
+.*.swp
+*.*~*
+*.bak
+*.rej
+*.orig
+*.o
+*.patch
+.bitconnect
+#compilation and Qt preprocessor part
+*.qm
+Makefile
+bitconnect-qt
+#resources cpp
+qrc_*.cpp
+#qt creator
+*.pro.user
+#mac specific
+.DS_Store
+build
+
+!src/leveldb/Makefile

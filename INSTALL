@@ -1,0 +1,9 @@
+Building bitconnect
+
+See doc/readme-qt.rst for instructions on building bitconnect QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of bitconnect.
+
+See doc/build-*.txt for instructions on building bitconnectd,
+the intended-for-services, no-graphical-interface, reference
+implementation of bitconnect.
