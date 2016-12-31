@@ -19,4 +19,4 @@ The BitConnect coins are used by bitconnect community members for bitconnect ser
 #How are they produced?
 BitConnect coin uses a special algorithm called the POW/POS to secure the BitConnect Coin network. The moment you acquire BitConnect Coin it becomes an interest bearing asset with 120% return per year through PoS minting. All you have to do to earn with this method is to hold coins in your Bitconnect-QT wallet. In addition to PoS minting, BitConnect coin can be mined with CPU/GPU and does not need an ASIC miner like Bitcoin does.
 
-
+ 
