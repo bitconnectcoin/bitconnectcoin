@@ -19,4 +19,14 @@ The BitConnect coins are used by bitconnect community members for bitconnect ser
 #How are they produced?
 BitConnect coin uses a special algorithm called the POW/POS to secure the BitConnect Coin network. The moment you acquire BitConnect Coin it becomes an interest bearing asset with 120% return per year through PoS minting. All you have to do to earn with this method is to hold coins in your Bitconnect-QT wallet. In addition to PoS minting, BitConnect coin can be mined with CPU/GPU and does not need an ASIC miner like Bitcoin does.
 
+#Download Wallet
+<b>HOW TO SET UP BITCONNECT COIN WALLET ON WINDOWS OPERATING SYSTEM?</b>
+
+A “BitConnect wallet” is basically the BitConnect Coin Account, which allows you to receive BitConnect Coin, store them, and then send them to others.
+
+<b>Click here : http://www.bitconnectcoin.co/wallet/bitconnect-wallet.zip</b>
+- Unzip the wallets files.
+- You will get bitconnect.exe file, Install the wallet software by double click on bitconnect.exe file.
+- You can now send and receive BitConnect Coin directly from BitConnect Desktop Wallet and also use this wallet to stake BitConnect Coin.
+
 
