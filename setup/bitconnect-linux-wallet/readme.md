@@ -9,7 +9,7 @@ With Desktop or software BitConnect wallet, you are in control over the security
 
 <b>TO SETUP DESKTOP BITCONNECT WALLET IN LINUX, FOLLOW THE BELOW STEPS:</b>
 <ul>
-<li><a href="">Download</a> bitconnect coin wallet from github.</li>
+<li><a href="https://github.com/bitconnectcoin/bitconnectcoin/blob/master/setup/bitconnect-linux-wallet/bitconnect-linux-qt.zip">Download</a> bitconnect coin wallet from github.</li>
 <li>To open linux terminal and goto destination path of downloaded directory</li>
 <li>Unzip the wallets files by using command <b>unzip wallet_file.zip -d destination_folder</b>.</li>
 <li>execute the wallet file by using command <b>./bitconnect-linux-qt</b></li>
