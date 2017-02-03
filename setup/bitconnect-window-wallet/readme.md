@@ -8,7 +8,7 @@ With Desktop or software BitConnect wallet, you are in control over the security
 
 <b>TO SETUP DESKTOP BITCONNECT WALLET IN WINDOWS, FOLLOW THE BELOW STEPS:</b>
 <ul>
-<li><a href="">Download</a> bitconnect coin wallet from github.</li>
+<li><a href="https://github.com/bitconnectcoin/bitconnectcoin/blob/master/setup/bitconnect-window-wallet/bitconnect-qt.zip">Download</a> bitconnect coin wallet from github.</li>
 <li>Unzip the wallets files.</li>
 <li>You will get bitconnect.exe file, Install the wallet software by double click on bitconnect.exe file.</li>
 <li>You can now send and receive BitConnect Coin directly from BitConnect Desktop Wallet and also use this wallet to stake BitConnect Coin.</li>
