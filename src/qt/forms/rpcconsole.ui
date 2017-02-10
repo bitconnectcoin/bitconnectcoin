@@ -13,6 +13,9 @@
   <property name="windowTitle">
    <string>bitconnect - Debug window</string>
   </property>
+  <property name="styleSheet">
+   <string notr="true">background-image: url(:/images/gr);</string>
+  </property>
   <layout class="QVBoxLayout" name="verticalLayout_2">
    <item>
     <widget class="QTabWidget" name="tabWidget">
