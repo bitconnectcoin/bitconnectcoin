@@ -29,4 +29,21 @@ A “BitConnect wallet” is basically the BitConnect Coin Account, which allows
 - You will get bitconnect.exe file, Install the wallet software by double click on bitconnect.exe file.
 - You can now send and receive BitConnect Coin directly from BitConnect Desktop Wallet and also use this wallet to stake BitConnect Coin.
 
+<b> HOW TO SET UP BITCONNECT COIN WALLET ON LINUX OPERATING SYSTEM?</b> 
+
+<b>Click here : http://www.bitconnectcoin.co/wallet/bitconnect-linux-qt.zip</b>
+
+- Open linux terminal and go to destination path of downloaded directory.
+- Unzip the wallets files using command unzip wallet_file.zip -d destination_folder.
+- execute the wallet file using command ./bitconnect-linux-qt.
+
+<b>HOW TO SET UP BITCONNECT COIN WALLET ON MAC OS X OPERATING SYSTEM?</b>
+
+<b>Click here : https://bitconnectcoin.co/wallet/bitconnect-mac.zip?v=154545</b>
+
+- Unzip the wallets files.
+- You will get bitconnect-qt.dmg file, Install the wallet software by double click on bitconnect-qt.dmg file.
+- You can now send and receive BitConnect Coin directly from BitConnect Desktop Wallet and also use this wallet to stake BitConnect   Coin.
+
+
 
