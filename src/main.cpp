@@ -2544,7 +2544,7 @@ bool LoadBlockIndex(bool fAllowNew)
        
         const char* pszTimestamp = "24dec2016";
         CTransaction txNew;
-        txNew.nTime = 1482537601;
+        txNew.nTime = 1482517602;
         txNew.vin.resize(1);
         txNew.vout.resize(1);
         txNew.vin[0].scriptSig = CScript() << 0 << CBigNum(42) << vector<unsigned char>((const unsigned char*)pszTimestamp, (const unsigned char*)pszTimestamp + strlen(pszTimestamp));
@@ -2554,9 +2554,9 @@ bool LoadBlockIndex(bool fAllowNew)
         block.hashPrevBlock = 0;
         block.hashMerkleRoot = block.BuildMerkleTree();
         block.nVersion = 1;
-        block.nTime    = 1482537601;
+        block.nTime    = 1482517602;
         block.nBits    = bnProofOfWorkLimit.GetCompact();
-        block.nNonce   = !fTestNet ? 70353 : 70353;
+        block.nNonce   = !fTestNet ? 70156 : 70156;
         
         if (true  && (block.GetHash() != hashGenesisBlock)) {
 
