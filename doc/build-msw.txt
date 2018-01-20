@@ -80,5 +80,6 @@ bitconnect
 -------
 DOS prompt:
 cd \bitconnect\src
+mkdir obj
 mingw32-make -f makefile.mingw
 strip bitconnectd.exe
